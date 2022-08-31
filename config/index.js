@@ -4,10 +4,10 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wxe0e5cbde4e211719",
+    APP_ID: "wx25374a5717554ba5",
 
     // 公众号APP_SECRET
-    APP_SECRET: "cccef6dc1628d93b312a592d81a07a3e",
+    APP_SECRET: "9971269176d8d33143acea8da868bfff",
 
     // 模板消息id
     TEMPLATE_ID: "7TLvu_Bbg7KSvik4AiFcX8dWgdLCba8XMDbVVZ8a5xA",
@@ -27,12 +27,12 @@ export const config = {
     USERS: [
          {
       name: "软件开发",
-      id: "oHBuO6TbnHptwln71kntfbpoR874-zxfvsdfd"
+      id: "o6ETm6Jdws4zBZRvy92rns9rvaA8"
     }
 ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "oHBuO6bk21bf2iY7vDAMo5R5aZ2w"}, 
+      {name: '自己',id: "o6ETm6Jdws4zBZRvy92rns9rvaA8"}, 
     ],
      
     /**
