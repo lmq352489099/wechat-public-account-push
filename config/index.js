@@ -26,10 +26,6 @@ export const config = {
     // }]
     USERS: [
     {
-      name: "张三",
-      id: "lmq4088"
-    },
-    {
       name: "林暖暖",
       id: "linnuannuan522"
     } 
